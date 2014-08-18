@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'PCS'
+tagline:          'JS Immersion'
+description:      'JavaScript Immersion'
+url:              http://portlandcodeschool.github.io/jsi
+timezone:         GMT
+
+author:
+  name:           'Whitney Young'
+  url:            https://twitter.com/wbyoung
+
+# Custom vars
+version:          1.0.25
